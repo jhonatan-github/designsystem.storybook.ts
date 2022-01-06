@@ -22,5 +22,9 @@
     "files": [
         "dist"
     ],
-    "types": "dist/index.d.ts"
+    "types": "dist/index.d.ts",
+    "dependencies": {
+        "5": "^0.0.1",
+        "webpack": "^5.65.0"
+    }
 }
