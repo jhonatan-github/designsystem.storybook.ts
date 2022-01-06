@@ -24,11 +24,3 @@
     ],
     "types": "dist/index.d.ts"
 }
-
-{
-    "name": "jhonatanfernandesss/template-react-component-library",
-    "publishConfig": {
-        "registry": "https://npm.pkg.github.com/YOUR_GITHUB_USERNAME"
-    },
-    ...
-}
